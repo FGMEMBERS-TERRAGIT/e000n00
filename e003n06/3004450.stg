@@ -22,9 +22,9 @@ OBJECT_SHARED Models/Commercial/office.xml 3.3200316 6.578798 25.13 28
 OBJECT_SHARED Models/Commercial/office.xml 3.3207377 6.5782879 25.62 268
 OBJECT_SHARED Models/Commercial/office.xml 3.321415 6.5787144 26.31 336
 OBJECT_SHARED Models/Commercial/office.xml 3.3321893 6.5834543 34.82 0
-OBJECT_SHARED Models/Airport/tower.xml 3.3201975 6.5782023 25.13 0
 OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 3.3197373 6.5789189 24.89 296
 OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml 3.3198866 6.5786627 24.96 296
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 3.3204 6.5783 90.33 344
 OBJECT_SHARED Models/Commercial/small-glass-office-building.ac 3.3200155 6.5782395 24.98 24
 OBJECT_SHARED Models/Commercial/small-glass-office-building.ac 3.3214349 6.5781807 26.17 240
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 3.3207137 6.5782192 25.58 268
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 3.3207137 6.5782192 -44.42 268
